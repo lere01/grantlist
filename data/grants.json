@@ -1,0 +1,2475 @@
+[
+  {
+    "id": "awesome-conservationandclimate",
+    "name": "Awesome Foundation – Conservation and Climate",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/conservationandclimate",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-disability",
+    "name": "Awesome Foundation – Disability",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/disability",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-dragondreaming",
+    "name": "Awesome Foundation – Dragon Dreaming",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/dragondreaming",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-onthewater",
+    "name": "Awesome Foundation – On the Water",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/onthewater",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-artsakh",
+    "name": "Awesome Foundation – Artsakh",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/artsakh",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-javakhk",
+    "name": "Awesome Foundation – Javakhk",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/javakhk",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-naturearmenia",
+    "name": "Awesome Foundation – Nature Armenia",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/naturearmenia",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-yerevan",
+    "name": "Awesome Foundation – Yerevan",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/yerevan",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-adelaide",
+    "name": "Awesome Foundation – Adelaide",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/adelaide",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-fleurieu",
+    "name": "Awesome Foundation – Fleurieu",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/fleurieu",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-geelong",
+    "name": "Awesome Foundation – Geelong",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/geelong",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-lakemac",
+    "name": "Awesome Foundation – Lake Mac",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/lakemac",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-newcastle",
+    "name": "Awesome Foundation – Newcastle",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/newcastle",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-sydney",
+    "name": "Awesome Foundation – Sydney",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/sydney",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-brumadinho",
+    "name": "Awesome Foundation – Brumadinho",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/brumadinho",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-rmbh",
+    "name": "Awesome Foundation – Grande Belo Horizonte",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/rmbh",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-amherstburg",
+    "name": "Awesome Foundation – Amherstburg",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/amherstburg",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-kingston-on",
+    "name": "Awesome Foundation – Kingston",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/kingston-on",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-kitchener-waterloo",
+    "name": "Awesome Foundation – Kitchener-Waterloo",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/kitchener-waterloo",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-newmarket-ontario",
+    "name": "Awesome Foundation – Newmarket",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/newmarket-ontario",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-ottawa",
+    "name": "Awesome Foundation – Ottawa",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/ottawa",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-southshore",
+    "name": "Awesome Foundation – South Shore",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/southshore",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-toronto",
+    "name": "Awesome Foundation – Toronto",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/toronto",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-rotterdam",
+    "name": "Awesome Foundation – Rotterdam",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/rotterdam",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-utrecht",
+    "name": "Awesome Foundation – Utrecht",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/utrecht",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-glasgow",
+    "name": "Awesome Foundation – Glasgow",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/glasgow",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-liverpool",
+    "name": "Awesome Foundation – Liverpool",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/liverpool",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-ann-arbor",
+    "name": "Awesome Foundation – Ann Arbor, MI",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/ann-arbor",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "MI",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-atlanta",
+    "name": "Awesome Foundation – Atlanta, GA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/atlanta",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "GA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-austin",
+    "name": "Awesome Foundation – Austin, TX",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/austin",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "TX",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-burlingamesanmateo",
+    "name": "Awesome Foundation – Burlingame-San Mateo, CA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/burlingamesanmateo",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "CA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-cassclay",
+    "name": "Awesome Foundation – Cass Clay",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/cassclay",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-chicago",
+    "name": "Awesome Foundation – Chicago, IL",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/chicago",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "IL",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-cleveland",
+    "name": "Awesome Foundation – Cleveland, OH",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/cleveland",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "OH",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-connecticut",
+    "name": "Awesome Foundation – Connecticut",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/connecticut",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-driftless",
+    "name": "Awesome Foundation – Driftless Region",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/driftless",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-durham",
+    "name": "Awesome Foundation – Durham, NC",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/durham",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "NC",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-gainesville",
+    "name": "Awesome Foundation – Gainesville, FL",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/gainesville",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "FL",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-georgetown",
+    "name": "Awesome Foundation – Georgetown, MA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/georgetown",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "MA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-gloucester",
+    "name": "Awesome Foundation – Gloucester, MA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/gloucester",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "MA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-ipswich",
+    "name": "Awesome Foundation – Ipswich, MA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/ipswich",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "MA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-keywest",
+    "name": "Awesome Foundation – Key West, FL",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/keywest",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "FL",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-los-angeles",
+    "name": "Awesome Foundation – Los Angeles, CA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/los-angeles",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "CA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-miami",
+    "name": "Awesome Foundation – Miami, FL",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/miami",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "FL",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-nyc",
+    "name": "Awesome Foundation – New York City, NY",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/nyc",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "NY",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-newburgh",
+    "name": "Awesome Foundation – Newburgh, NY",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/newburgh",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "NY",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-northminneapolis",
+    "name": "Awesome Foundation – North Minneapolis, MN",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/northminneapolis",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "MN",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-oahu",
+    "name": "Awesome Foundation – Oahu, HI",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/oahu",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "HI",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-orlando",
+    "name": "Awesome Foundation – Orlando, FL",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/orlando",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "FL",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-philadelphia",
+    "name": "Awesome Foundation – Philadelphia, PA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/philadelphia",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "PA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-pittsburgh",
+    "name": "Awesome Foundation – Pittsburgh, PA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/pittsburgh",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "PA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-portland",
+    "name": "Awesome Foundation – Portland, OR",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/portland",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "OR",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-poughkeepsie",
+    "name": "Awesome Foundation – Poughkeepsie, NY",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/poughkeepsie",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "NY",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-rhodeisland",
+    "name": "Awesome Foundation – Rhode Island",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/rhodeisland",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-rockport",
+    "name": "Awesome Foundation – Rockport, MA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/rockport",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "MA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-sanantonio",
+    "name": "Awesome Foundation – San Antonio, TX",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/sanantonio",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "TX",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-sf",
+    "name": "Awesome Foundation – San Francisco, CA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/sf",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "CA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-sanjose",
+    "name": "Awesome Foundation – San Jose, CA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/sanjose",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "CA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-santacruz",
+    "name": "Awesome Foundation – Santa Cruz, CA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/santacruz",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "CA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-seattle",
+    "name": "Awesome Foundation – Seattle, WA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/seattle",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "WA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-southbend",
+    "name": "Awesome Foundation – South Bend, IN",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/southbend",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "IN",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-stpaul",
+    "name": "Awesome Foundation – St. Paul, MN",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/stpaul",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "MN",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-statecollege",
+    "name": "Awesome Foundation – State College, PA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/statecollege",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "PA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-dc",
+    "name": "Awesome Foundation – Washington, DC",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/dc",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "DC",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-westminster",
+    "name": "Awesome Foundation – Westminster, MD",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/westminster",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "MD",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-conservationandclimate",
+    "name": "Awesome Foundation – Conservation and Climate",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/conservationandclimate",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-disability",
+    "name": "Awesome Foundation – Disability",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/disability",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-dragondreaming",
+    "name": "Awesome Foundation – Dragon Dreaming",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/dragondreaming",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-onthewater",
+    "name": "Awesome Foundation – On the Water",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/onthewater",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-artsakh",
+    "name": "Awesome Foundation – Artsakh",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/artsakh",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-javakhk",
+    "name": "Awesome Foundation – Javakhk",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/javakhk",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-naturearmenia",
+    "name": "Awesome Foundation – Nature Armenia",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/naturearmenia",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-yerevan",
+    "name": "Awesome Foundation – Yerevan",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/yerevan",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-adelaide",
+    "name": "Awesome Foundation – Adelaide",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/adelaide",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-fleurieu",
+    "name": "Awesome Foundation – Fleurieu",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/fleurieu",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-geelong",
+    "name": "Awesome Foundation – Geelong",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/geelong",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-lakemac",
+    "name": "Awesome Foundation – Lake Mac",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/lakemac",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-newcastle",
+    "name": "Awesome Foundation – Newcastle",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/newcastle",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-sydney",
+    "name": "Awesome Foundation – Sydney",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/sydney",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-brumadinho",
+    "name": "Awesome Foundation – Brumadinho",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/brumadinho",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-rmbh",
+    "name": "Awesome Foundation – Grande Belo Horizonte",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/rmbh",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-amherstburg",
+    "name": "Awesome Foundation – Amherstburg",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/amherstburg",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-kingston-on",
+    "name": "Awesome Foundation – Kingston",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/kingston-on",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-kitchener-waterloo",
+    "name": "Awesome Foundation – Kitchener-Waterloo",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/kitchener-waterloo",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-newmarket-ontario",
+    "name": "Awesome Foundation – Newmarket",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/newmarket-ontario",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-ottawa",
+    "name": "Awesome Foundation – Ottawa",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/ottawa",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-southshore",
+    "name": "Awesome Foundation – South Shore",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/southshore",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-toronto",
+    "name": "Awesome Foundation – Toronto",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/toronto",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-rotterdam",
+    "name": "Awesome Foundation – Rotterdam",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/rotterdam",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-utrecht",
+    "name": "Awesome Foundation – Utrecht",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/utrecht",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-glasgow",
+    "name": "Awesome Foundation – Glasgow",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/glasgow",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-liverpool",
+    "name": "Awesome Foundation – Liverpool",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/liverpool",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-ann-arbor",
+    "name": "Awesome Foundation – Ann Arbor, MI",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/ann-arbor",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "MI",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-atlanta",
+    "name": "Awesome Foundation – Atlanta, GA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/atlanta",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "GA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-austin",
+    "name": "Awesome Foundation – Austin, TX",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/austin",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "TX",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-burlingamesanmateo",
+    "name": "Awesome Foundation – Burlingame-San Mateo, CA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/burlingamesanmateo",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "CA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-cassclay",
+    "name": "Awesome Foundation – Cass Clay",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/cassclay",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-chicago",
+    "name": "Awesome Foundation – Chicago, IL",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/chicago",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "IL",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-cleveland",
+    "name": "Awesome Foundation – Cleveland, OH",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/cleveland",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "OH",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-connecticut",
+    "name": "Awesome Foundation – Connecticut",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/connecticut",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-driftless",
+    "name": "Awesome Foundation – Driftless Region",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/driftless",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-durham",
+    "name": "Awesome Foundation – Durham, NC",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/durham",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "NC",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-gainesville",
+    "name": "Awesome Foundation – Gainesville, FL",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/gainesville",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "FL",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-georgetown",
+    "name": "Awesome Foundation – Georgetown, MA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/georgetown",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "MA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-gloucester",
+    "name": "Awesome Foundation – Gloucester, MA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/gloucester",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "MA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-ipswich",
+    "name": "Awesome Foundation – Ipswich, MA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/ipswich",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "MA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-keywest",
+    "name": "Awesome Foundation – Key West, FL",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/keywest",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "FL",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-los-angeles",
+    "name": "Awesome Foundation – Los Angeles, CA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/los-angeles",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "CA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-miami",
+    "name": "Awesome Foundation – Miami, FL",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/miami",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "FL",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-nyc",
+    "name": "Awesome Foundation – New York City, NY",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/nyc",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "NY",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-newburgh",
+    "name": "Awesome Foundation – Newburgh, NY",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/newburgh",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "NY",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-northminneapolis",
+    "name": "Awesome Foundation – North Minneapolis, MN",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/northminneapolis",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "MN",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-oahu",
+    "name": "Awesome Foundation – Oahu, HI",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/oahu",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "HI",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-orlando",
+    "name": "Awesome Foundation – Orlando, FL",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/orlando",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "FL",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-philadelphia",
+    "name": "Awesome Foundation – Philadelphia, PA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/philadelphia",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "PA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-pittsburgh",
+    "name": "Awesome Foundation – Pittsburgh, PA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/pittsburgh",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "PA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-portland",
+    "name": "Awesome Foundation – Portland, OR",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/portland",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "OR",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-poughkeepsie",
+    "name": "Awesome Foundation – Poughkeepsie, NY",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/poughkeepsie",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "NY",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-rhodeisland",
+    "name": "Awesome Foundation – Rhode Island",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/rhodeisland",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-rockport",
+    "name": "Awesome Foundation – Rockport, MA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/rockport",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "MA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-sanantonio",
+    "name": "Awesome Foundation – San Antonio, TX",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/sanantonio",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "TX",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-sf",
+    "name": "Awesome Foundation – San Francisco, CA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/sf",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "CA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-sanjose",
+    "name": "Awesome Foundation – San Jose, CA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/sanjose",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "CA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-santacruz",
+    "name": "Awesome Foundation – Santa Cruz, CA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/santacruz",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "CA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-seattle",
+    "name": "Awesome Foundation – Seattle, WA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/seattle",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "WA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-southbend",
+    "name": "Awesome Foundation – South Bend, IN",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/southbend",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "IN",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-stpaul",
+    "name": "Awesome Foundation – St. Paul, MN",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/stpaul",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "MN",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-statecollege",
+    "name": "Awesome Foundation – State College, PA",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/statecollege",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "PA",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-dc",
+    "name": "Awesome Foundation – Washington, DC",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/dc",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "DC",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "awesome-westminster",
+    "name": "Awesome Foundation – Westminster, MD",
+    "funder": "Awesome Foundation",
+    "url": "https://www.awesomefoundation.org/en/chapters/westminster",
+    "amount_min": 1000.0,
+    "amount_max": 1000.0,
+    "currency": "USD",
+    "region": "MD",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "community",
+      "general"
+    ],
+    "description": "Micro-grant of $1 000; rolling monthly.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "nlnet-ngi0-commons-fund",
+    "name": "NLnet – NGI0 Commons Fund",
+    "funder": "NLnet Foundation",
+    "url": "https://nlnet.nl/commonsfund/",
+    "amount_min": 5000.0,
+    "amount_max": 50000.0,
+    "currency": "EUR",
+    "region": "EU",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "open-source",
+      "internet",
+      "R&D"
+    ],
+    "description": "Small and medium-size R&D grants (€5 k – €50 k) with support services via NGI Zero.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "nlnet-ngi-taler",
+    "name": "NLnet – NGI TALER",
+    "funder": "NLnet Foundation",
+    "url": "https://nlnet.nl/taler/",
+    "amount_min": 5000.0,
+    "amount_max": 50000.0,
+    "currency": "EUR",
+    "region": "EU",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "open-source",
+      "internet",
+      "R&D"
+    ],
+    "description": "Small and medium-size R&D grants (€5 k – €50 k) with support services via NGI Zero.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "nlnet-ngi-mobifree",
+    "name": "NLnet – NGI Mobifree",
+    "funder": "NLnet Foundation",
+    "url": "https://nlnet.nl/mobifree/",
+    "amount_min": 5000.0,
+    "amount_max": 50000.0,
+    "currency": "EUR",
+    "region": "EU",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "open-source",
+      "internet",
+      "R&D"
+    ],
+    "description": "Small and medium-size R&D grants (€5 k – €50 k) with support services via NGI Zero.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "nlnet-ngi-fediversity",
+    "name": "NLnet – NGI Fediversity",
+    "funder": "NLnet Foundation",
+    "url": "https://nlnet.nl/fediversity/",
+    "amount_min": 5000.0,
+    "amount_max": 50000.0,
+    "currency": "EUR",
+    "region": "EU",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "open-source",
+      "internet",
+      "R&D"
+    ],
+    "description": "Small and medium-size R&D grants (€5 k – €50 k) with support services via NGI Zero.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "emergent-ventures",
+    "name": "Emergent Ventures (rolling)",
+    "funder": "Mercatus Center",
+    "url": "https://www.mercatus.org/emergent-ventures",
+    "amount_min": 5000.0,
+    "amount_max": 500000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "innovation",
+      "research",
+      "entrepreneurship"
+    ],
+    "description": "Fast-turnaround grants and fellowships for ambitious ideas.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "prototype-fund",
+    "name": "We fund Public Interest Tech.",
+    "funder": "Prototype Fund (OKF-DE / BMBF)",
+    "url": "https://prototypefund.de/en/",
+    "amount_min": 5000.0,
+    "amount_max": 50000.0,
+    "currency": "EUR",
+    "region": "EU",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "open-source",
+      "civic-tech",
+      "research"
+    ],
+    "description": "German Federal grant for OSS civic-tech; two rounds per year.",
+    "retrieved_at": "2025-04-30"
+  },
+  {
+    "id": "moss-mission-partners",
+    "name": "Mission Partners",
+    "funder": "Mozilla Foundation",
+    "url": "https://www.mozilla.org/en-US/moss/mission-partners/",
+    "amount_min": 10000.0,
+    "amount_max": 250000.0,
+    "currency": "USD",
+    "region": "Global",
+    "deadline": null,
+    "recurring": true,
+    "tags": [
+      "open-source",
+      "internet",
+      "privacy"
+    ],
+    "description": "Grants ($10k–$250k) for open-source projects that advance Mozilla’s mission. Rolling review.",
+    "retrieved_at": "2025-04-30"
+  }
+]
