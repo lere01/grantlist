@@ -10,7 +10,7 @@ let currentPage = 1;
 const pageSize = 12;
 
 // Fetch data
-fetch('/data/grants.json')
+fetch('data/grants.json')
   .then(r => r.json())
   .then(json => {
     grants = json;
@@ -19,7 +19,7 @@ fetch('/data/grants.json')
   });
 
 // ---- Load scraper_status.json and update badge ----
-fetch('/data/scraper_status.json')
+fetch('data/scraper_status.json')
   .then(r => r.json())
   .then(status => {
     const failing = status.filter(s => s.error || s.n_grants === 0);
