@@ -22,8 +22,9 @@ class Grant(BaseModel):
 
 
 
-@dataclass(frozen=True)
+@dataclass
 class ScrapeResult:
     name: str                # e.g. "fetch_moss"
     grants: List[Grant]
     error: Optional[str] = None  
+    retrieved_at: str = date.today().isoformat()
