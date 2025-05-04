@@ -14,7 +14,6 @@ fetch('data/grants.json')
   .then(r => r.json())
   .then(json => {
     grants = json;
-    // badgeEl.textContent = `Data refreshed: ${grants[0]?.retrieved_at}`;
     render();
   });
 
