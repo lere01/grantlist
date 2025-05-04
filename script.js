@@ -14,7 +14,7 @@ fetch('data/grants.json')
   .then(r => r.json())
   .then(json => {
     grants = json;
-    badgeEl.textContent = `Data refreshed: ${grants[0]?.retrieved_at}`;
+    // badgeEl.textContent = `Data refreshed: ${grants[0]?.retrieved_at}`;
     render();
   });
 
@@ -24,6 +24,9 @@ fetch('data/scraper_status.json')
   .then(status => {
     const failing = status.filter(s => s.error || s.n_grants === 0);
     const badge   = document.getElementById('status-badge');
+    const times = status.map(s => new Date(s.retrieved_at)).filter(Boolean);
+    const mostRecent = new Date(Math.max(...times));
+    badgeEl.textContent = `Data refreshed: ${mostRecent.toLocaleString()}`;
 
     // Badge text & color
     if (failing.length === 0) {
